@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨🏽‍💻  I’m currently working as a Web Dev intern at [RED Digital Cinema](https://red.com/) 
+- 👨🏽‍💻  I’m currently working as a Software Engineer- Web intern at [RED Digital Cinema](https://red.com/) 
 - 🌱  I’m currently learning Python, advanced JS, and much more 
 - 📫  How to reach me: [aditya.bhavikatti@gmail.com](mailto:aditya.bhavikatti@gmail.com)
 - LinkedIn: [@adityabhavikatti](https://www.linkedin.com/in/adityabhavikatti/)
